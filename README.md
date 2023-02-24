@@ -16,15 +16,21 @@
 
 
 #### For Compiling Lex file only:
-###### flex file_name.l
-###### gcc lex.yy.c
+``` 
+flex file_name.l
+gcc lex.yy.c 
+```
 
 
 #### For Compiling Lex & Yacc file both:
-###### flex file_name.l
-###### bison -dy file_name.y
-###### gcc lex.yy.c y.tab.c
+
+``` 
+flex file_name.l 
+bison -dy file_name.y
+gcc lex.yy.c y.tab.c
+```
 
 #### For Executing the Program:
-###### a.exe
-
+```
+a.exe
+```
