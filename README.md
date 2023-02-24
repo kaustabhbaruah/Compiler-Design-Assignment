@@ -5,9 +5,9 @@
 
 #### To run these codes in Windows follow the following process:
 
-###### Install Flex
-###### Install Bison
-###### Install DevC++
+###### Install Flex.
+###### Install Bison.
+###### Install DevC++.
 ###### Add the path in Environment Variables.
 
 #### For Compilation & Execution of your Program:
